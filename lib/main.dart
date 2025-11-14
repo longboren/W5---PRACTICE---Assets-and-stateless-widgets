@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 enum WeatherType {
@@ -208,4 +207,3 @@ class WeatherCard extends StatelessWidget {
     );
   }
 }
-
